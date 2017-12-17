@@ -1,0 +1,9 @@
+# TODO: maybe something more nuanced than yes / no
+include:
+  - starwars
+exclude:
+  - xyz
+start: 900
+
+# TODO: handle movies going into the next day
+end: 2400
